@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520737842565",
+    "project_id": "ma-lab-exam-4",
+    "storage_bucket": "ma-lab-exam-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520737842565:android:d0d843727bd28f44cd50ec",
+        "android_client_info": {
+          "package_name": "com.example.malabexam4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520737842565-ca8lm9unn11tco7c4i6q990homems22g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8Xv5tdGAlNMVqdSBPP56QCerFUWfhek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520737842565-ca8lm9unn11tco7c4i6q990homems22g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

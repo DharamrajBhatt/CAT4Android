@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MA LAB EXAM 4</string>
+
+    <string name="category">Choose a category</string>
+    <string-array name="subject">
+        <item>Mobile Applications</item>
+        <item>Web Technologies</item>
+        <item>Machine Learning</item>
+        <item>UI</item>
+    </string-array>
+
+</resources>
